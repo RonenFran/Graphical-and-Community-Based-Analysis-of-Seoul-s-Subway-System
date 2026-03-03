@@ -937,8 +937,8 @@
       <data key="d4">774586</data>
       <data key="d5">1493118</data>
     </node>
-    <node id="Sookmyung Women’s Univ. (Galwol) [Line 4]">
-      <data key="d0">Sookmyung Women’s Univ. (Galwol)</data>
+    <node id="Sookmyung Women's Univ. (Galwol) [Line 4]">
+      <data key="d0">Sookmyung Women's Univ. (Galwol)</data>
       <data key="d1">Line 4</data>
       <data key="d2">4호선</data>
       <data key="d3">489158</data>
@@ -953,8 +953,8 @@
       <data key="d4">838053</data>
       <data key="d5">1739039</data>
     </node>
-    <node id="Sungshin Women’s Univ. (Donam) [Line 4]">
-      <data key="d0">Sungshin Women’s Univ. (Donam)</data>
+    <node id="Sungshin Women's Univ. (Donam) [Line 4]">
+      <data key="d0">Sungshin Women's Univ. (Donam)</data>
       <data key="d1">Line 4</data>
       <data key="d2">4호선</data>
       <data key="d3">733201</data>
@@ -969,8 +969,8 @@
       <data key="d4">1079257</data>
       <data key="d5">2152702</data>
     </node>
-    <node id="Achasan (Children’s Grand Park Rear Gate) [Line 5]">
-      <data key="d0">Achasan (Children’s Grand Park Rear Gate)</data>
+    <node id="Achasan (Children's Grand Park Rear Gate) [Line 5]">
+      <data key="d0">Achasan (Children's Grand Park Rear Gate)</data>
       <data key="d1">Line 5</data>
       <data key="d2">5호선</data>
       <data key="d3">462478</data>
@@ -1561,8 +1561,8 @@
       <data key="d4">437850</data>
       <data key="d5">877343</data>
     </node>
-    <node id="Hwarangdae (Seoul Women’s Univ.) [Line 6]">
-      <data key="d0">Hwarangdae (Seoul Women’s Univ.)</data>
+    <node id="Hwarangdae (Seoul Women's Univ.) [Line 6]">
+      <data key="d0">Hwarangdae (Seoul Women's Univ.)</data>
       <data key="d1">Line 6</data>
       <data key="d2">6호선</data>
       <data key="d3">352797</data>
@@ -1689,8 +1689,8 @@
       <data key="d4">196967</data>
       <data key="d5">380320</data>
     </node>
-    <node id="Wolgok (Dongduk Women’s Univ.) [Line 6]">
-      <data key="d0">Wolgok (Dongduk Women’s Univ.)</data>
+    <node id="Wolgok (Dongduk Women's Univ.) [Line 6]">
+      <data key="d0">Wolgok (Dongduk Women's Univ.)</data>
       <data key="d1">Line 6</data>
       <data key="d2">6호선</data>
       <data key="d3">364266</data>
@@ -1769,8 +1769,8 @@
       <data key="d4">349041</data>
       <data key="d5">709410</data>
     </node>
-    <node id="Children’s Grand Park (Sejong Univ.) [Line 7]">
-      <data key="d0">Children’s Grand Park (Sejong Univ.)</data>
+    <node id="Children's Grand Park (Sejong Univ.) [Line 7]">
+      <data key="d0">Children's Grand Park (Sejong Univ.)</data>
       <data key="d1">Line 7</data>
       <data key="d2">7호선</data>
       <data key="d3">503274</data>
@@ -2169,8 +2169,8 @@
       <data key="d4">232161</data>
       <data key="d5">469431</data>
     </node>
-    <node id="Namhansanseong Entrance (Seongnam Court &amp; Prosecutors’ Office) [Line 8]">
-      <data key="d0">Namhansanseong Entrance (Seongnam Court &amp; Prosecutors’ Office)</data>
+    <node id="Namhansanseong Entrance (Seongnam Court &amp; Prosecutors' Office) [Line 8]">
+      <data key="d0">Namhansanseong Entrance (Seongnam Court &amp; Prosecutors' Office)</data>
       <data key="d1">Line 8</data>
       <data key="d2">8호선</data>
       <data key="d3">400304</data>
@@ -2569,8 +2569,8 @@
       <data key="d4">27890</data>
       <data key="d5">59735</data>
     </node>
-    <node id="King Sejong’s Tomb [Gyeonggang Line]">
-      <data key="d0">King Sejong’s Tomb</data>
+    <node id="King Sejong's Tomb [Gyeonggang Line]">
+      <data key="d0">King Sejong's Tomb</data>
       <data key="d1">Gyeonggang Line</data>
       <data key="d2">경강선</data>
       <data key="d3">10350</data>
@@ -4409,8 +4409,8 @@
       <data key="d4">148823</data>
       <data key="d5">305327</data>
     </node>
-    <node id="Gwanaksan (Seoul Nat’l Univ.) [Sillim Line]">
-      <data key="d0">Gwanaksan (Seoul Nat’l Univ.)</data>
+    <node id="Gwanaksan (Seoul Nat'l Univ.) [Sillim Line]">
+      <data key="d0">Gwanaksan (Seoul Nat'l Univ.)</data>
       <data key="d1">Sillim Line</data>
       <data key="d2">신림선</data>
       <data key="d3">89111</data>
@@ -4433,8 +4433,8 @@
       <data key="d4">109202</data>
       <data key="d5">208224</data>
     </node>
-    <node id="Seoul Nat’l Univ. Venture Town [Sillim Line]">
-      <data key="d0">Seoul Nat’l Univ. Venture Town</data>
+    <node id="Seoul Nat'l Univ. Venture Town [Sillim Line]">
+      <data key="d0">Seoul Nat'l Univ. Venture Town</data>
       <data key="d1">Sillim Line</data>
       <data key="d2">신림선</data>
       <data key="d3">315782</data>
@@ -4657,8 +4657,8 @@
       <data key="d4">171712</data>
       <data key="d5">354347</data>
     </node>
-    <node id="Sungshin Women’s Univ. (Donam) [Ui-Sinseol Line]">
-      <data key="d0">Sungshin Women’s Univ. (Donam)</data>
+    <node id="Sungshin Women's Univ. (Donam) [Ui-Sinseol Line]">
+      <data key="d0">Sungshin Women's Univ. (Donam)</data>
       <data key="d1">Ui-Sinseol Line</data>
       <data key="d2">우이신설선</data>
       <data key="d3">120421</data>
@@ -5120,7 +5120,7 @@
     <edge source="Dongdaemun History &amp; Culture Park (DDP) [Line 2]" target="Dongdaemun History &amp; Culture Park (DDP) [Line 5]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Dorimcheon [Line 2]" target="Sindap [Line 2]">
+    <edge source="Dorimcheon [Line 2]" target="Yongdu (Dongdaemun-gu Office) [Line 2]">
       <data key="d6">in_line</data>
       <data key="d7">Line 2</data>
     </edge>
@@ -5287,14 +5287,14 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 2</data>
     </edge>
+    <edge source="Sindap [Line 2]" target="Sinseol-dong [Line 2]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 2</data>
+    </edge>
     <edge source="Sindorim [Line 2]" target="Sindorim [Gyeongbu Line]">
       <data key="d6">transfer</data>
     </edge>
     <edge source="Sinjeongnegeori [Line 2]" target="Yangcheon-gu Office [Line 2]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 2</data>
-    </edge>
-    <edge source="Sinjeongnegeori [Line 2]" target="Sinseol-dong [Line 2]">
       <data key="d6">in_line</data>
       <data key="d7">Line 2</data>
     </edge>
@@ -5488,11 +5488,7 @@
     <edge source="Yeonsinnae [Line 3]" target="Yeonsinnae [Line 6]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Bulamsan [Line 4]" target="Namtaeryeong [Line 4]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 4</data>
-    </edge>
-    <edge source="Bulamsan [Line 4]" target="Sookmyung Women’s Univ. (Galwol) [Line 4]">
+    <edge source="Bulamsan [Line 4]" target="Sanggye [Line 4]">
       <data key="d6">in_line</data>
       <data key="d7">Line 4</data>
     </edge>
@@ -5545,7 +5541,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 4</data>
     </edge>
-    <edge source="Gireum [Line 4]" target="Hansung Univ. (Samseongyo) [Line 4]">
+    <edge source="Gireum [Line 4]" target="Sungshin Women's Univ. (Donam) [Line 4]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 4</data>
+    </edge>
+    <edge source="Hansung Univ. (Samseongyo) [Line 4]" target="Sungshin Women's Univ. (Donam) [Line 4]">
       <data key="d6">in_line</data>
       <data key="d7">Line 4</data>
     </edge>
@@ -5587,7 +5587,7 @@
     <edge source="Nowon [Line 4]" target="Nowon [Line 7]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Samgakji (War Memorial of Korea) [Line 4]" target="Seoul Station [Line 4]">
+    <edge source="Samgakji (War Memorial of Korea) [Line 4]" target="Sookmyung Women's Univ. (Galwol) [Line 4]">
       <data key="d6">in_line</data>
       <data key="d7">Line 4</data>
     </edge>
@@ -5598,6 +5598,10 @@
     <edge source="Samgakji (War Memorial of Korea) [Line 4]" target="Samgakji (War Memorial of Korea) [Line 6]">
       <data key="d6">transfer</data>
     </edge>
+    <edge source="Seoul Station [Line 4]" target="Sookmyung Women's Univ. (Galwol) [Line 4]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 4</data>
+    </edge>
     <edge source="Seoul Station [Line 4]" target="Seoul Station [Gyeongbu Line]">
       <data key="d6">transfer</data>
     </edge>
@@ -5607,22 +5611,22 @@
     <edge source="Seoul Station [Line 4]" target="Seoul Station [Airport Railroad (AREX)]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Sookmyung Women’s Univ. (Galwol) [Line 4]" target="Sungshin Women’s Univ. (Donam) [Line 4]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 4</data>
-    </edge>
     <edge source="Ssangmun [Line 4]" target="Suyu (Gangbuk-gu Office) [Line 4]">
       <data key="d6">in_line</data>
       <data key="d7">Line 4</data>
     </edge>
-    <edge source="Sungshin Women’s Univ. (Donam) [Line 4]" target="Sungshin Women’s Univ. (Donam) [Ui-Sinseol Line]">
+    <edge source="Sungshin Women's Univ. (Donam) [Line 4]" target="Sungshin Women's Univ. (Donam) [Ui-Sinseol Line]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Achasan (Children’s Grand Park Rear Gate) [Line 5]" target="Macheon [Line 5]">
+    <edge source="Achasan (Children's Grand Park Rear Gate) [Line 5]" target="Gunja (Neungdong) [Line 5]">
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
-    <edge source="Achasan (Children’s Grand Park Rear Gate) [Line 5]" target="Dunchon-dong [Line 5]">
+    <edge source="Achasan (Children's Grand Park Rear Gate) [Line 5]" target="Gwangnaru (Korea Baptist Theological Univ.) [Line 5]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 5</data>
+    </edge>
+    <edge source="Achasan (Children's Grand Park Rear Gate) [Line 5]" target="Macheon [Line 5]">
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
@@ -5646,11 +5650,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
-    <edge source="Bangi [Line 5]" target="Hanam Geomdansan [Line 5]">
+    <edge source="Bangi [Line 5]" target="Ogeum [Line 5]">
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
-    <edge source="Bangi [Line 5]" target="Gaerong [Line 5]">
+    <edge source="Bangi [Line 5]" target="Geoyeo [Line 5]">
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
@@ -5692,7 +5696,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
-    <edge source="Dunchon-dong [Line 5]" target="Ogeum [Line 5]">
+    <edge source="Dunchon-dong [Line 5]" target="Hanam Geomdansan [Line 5]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 5</data>
+    </edge>
+    <edge source="Dunchon-dong [Line 5]" target="Olympic Park (Korea National Sport Univ.) [Line 5]">
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
@@ -5704,7 +5712,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
-    <edge source="Gaerong [Line 5]" target="Geoyeo [Line 5]">
+    <edge source="Gaerong [Line 5]" target="Olympic Park (Korea National Sport Univ.) [Line 5]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 5</data>
+    </edge>
+    <edge source="Gaerong [Line 5]" target="Ogeum [Line 5]">
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
@@ -5773,10 +5785,6 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
-    <edge source="Gunja (Neungdong) [Line 5]" target="Gwangnaru (Korea Baptist Theological Univ.) [Line 5]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 5</data>
-    </edge>
     <edge source="Gunja (Neungdong) [Line 5]" target="Gunja (Neungdong) [Line 7]">
       <data key="d6">transfer</data>
     </edge>
@@ -5837,10 +5845,6 @@
       <data key="d7">Line 5</data>
     </edge>
     <edge source="Mok-dong [Line 5]" target="Omokgyo (Mokdong Stadium) [Line 5]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 5</data>
-    </edge>
-    <edge source="Ogeum [Line 5]" target="Olympic Park (Korea National Sport Univ.) [Line 5]">
       <data key="d6">in_line</data>
       <data key="d7">Line 5</data>
     </edge>
@@ -5906,7 +5910,7 @@
     <edge source="Bomun [Line 6]" target="Bomun [Ui-Sinseol Line]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Bonghwasan (Seoul Medical Center) [Line 6]" target="Taereung Entrance [Line 6]">
+    <edge source="Bonghwasan (Seoul Medical Center) [Line 6]" target="Hwarangdae (Seoul Women's Univ.) [Line 6]">
       <data key="d6">in_line</data>
       <data key="d7">Line 6</data>
     </edge>
@@ -6010,11 +6014,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 6</data>
     </edge>
-    <edge source="Hwarangdae (Seoul Women’s Univ.) [Line 6]" target="Sinnae [Line 6]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 6</data>
-    </edge>
-    <edge source="Hwarangdae (Seoul Women’s Univ.) [Line 6]" target="Wolgok (Dongduk Women’s Univ.) [Line 6]">
+    <edge source="Hwarangdae (Seoul Women's Univ.) [Line 6]" target="Taereung Entrance [Line 6]">
       <data key="d6">in_line</data>
       <data key="d7">Line 6</data>
     </edge>
@@ -6033,7 +6033,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 6</data>
     </edge>
-    <edge source="Korea Univ. (Jongam) [Line 6]" target="Sangwolgok (KIST) [Line 6]">
+    <edge source="Korea Univ. (Jongam) [Line 6]" target="Wolgok (Dongduk Women's Univ.) [Line 6]">
       <data key="d6">in_line</data>
       <data key="d7">Line 6</data>
     </edge>
@@ -6049,12 +6049,20 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 6</data>
     </edge>
+    <edge source="Sangwolgok (KIST) [Line 6]" target="Wolgok (Dongduk Women's Univ.) [Line 6]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 6</data>
+    </edge>
     <edge source="Seokgye [Line 6]" target="Taereung Entrance [Line 6]">
       <data key="d6">in_line</data>
       <data key="d7">Line 6</data>
     </edge>
     <edge source="Seokgye [Line 6]" target="Seokgye [Gyeongwon Line]">
       <data key="d6">transfer</data>
+    </edge>
+    <edge source="Sinnae [Line 6]" target="Wolgok (Dongduk Women's Univ.) [Line 6]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 6</data>
     </edge>
     <edge source="Sinnae [Line 6]" target="Sinnae [Gyeongchun Line]">
       <data key="d6">transfer</data>
@@ -6105,7 +6113,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 7</data>
     </edge>
-    <edge source="Children’s Grand Park (Sejong Univ.) [Line 7]" target="Onsu (Sungkonghoe Univ.) [Line 7]">
+    <edge source="Children's Grand Park (Sejong Univ.) [Line 7]" target="Gunja (Neungdong) [Line 7]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 7</data>
+    </edge>
+    <edge source="Children's Grand Park (Sejong Univ.) [Line 7]" target="Konkuk Univ [Line 7]">
       <data key="d6">in_line</data>
       <data key="d7">Line 7</data>
     </edge>
@@ -6158,10 +6170,6 @@
       <data key="d7">Line 7</data>
     </edge>
     <edge source="Gunja (Neungdong) [Line 7]" target="Junggok [Line 7]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 7</data>
-    </edge>
-    <edge source="Gunja (Neungdong) [Line 7]" target="Konkuk Univ [Line 7]">
       <data key="d6">in_line</data>
       <data key="d7">Line 7</data>
     </edge>
@@ -6270,7 +6278,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 8</data>
     </edge>
-    <edge source="Dandae Ogeori [Line 8]" target="Sanseong [Line 8]">
+    <edge source="Dandae Ogeori [Line 8]" target="Namhansanseong Entrance (Seongnam Court &amp; Prosecutors' Office) [Line 8]">
       <data key="d6">in_line</data>
       <data key="d7">Line 8</data>
     </edge>
@@ -6306,14 +6314,14 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 8</data>
     </edge>
-    <edge source="Moran [Line 8]" target="Namhansanseong Entrance (Seongnam Court &amp; Prosecutors’ Office) [Line 8]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 8</data>
-    </edge>
     <edge source="Moran [Line 8]" target="Moran [Bundang Line]">
       <data key="d6">transfer</data>
     </edge>
     <edge source="Nam Wirye [Line 8]" target="Sanseong [Line 8]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 8</data>
+    </edge>
+    <edge source="Namhansanseong Entrance (Seongnam Court &amp; Prosecutors' Office) [Line 8]" target="Sanseong [Line 8]">
       <data key="d6">in_line</data>
       <data key="d7">Line 8</data>
     </edge>
@@ -6442,7 +6450,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 9</data>
     </edge>
-    <edge source="Bongeunsa [Line 9 Phase 2-3]" target="Central Veterans Hospital [Line 9 Phase 2-3]">
+    <edge source="Bongeunsa [Line 9 Phase 2-3]" target="Samseong Jungang [Line 9 Phase 2-3]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 9 Phase 2-3</data>
+    </edge>
+    <edge source="Bongeunsa [Line 9 Phase 2-3]" target="Sports Complex [Line 9 Phase 2-3]">
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
@@ -6450,11 +6462,15 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
-    <edge source="Dunchon Oryun [Line 9 Phase 2-3]" target="Eonju [Line 9 Phase 2-3]">
+    <edge source="Dunchon Oryun [Line 9 Phase 2-3]" target="Olympic Park (Korea National Sport Univ.) [Line 9 Phase 2-3]">
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
-    <edge source="Eonju [Line 9 Phase 2-3]" target="Hanseong Baekje [Line 9 Phase 2-3]">
+    <edge source="Eonju [Line 9 Phase 2-3]" target="Seonjeongneung [Line 9 Phase 2-3]">
+      <data key="d6">in_line</data>
+      <data key="d7">Line 9 Phase 2-3</data>
+    </edge>
+    <edge source="Hanseong Baekje [Line 9 Phase 2-3]" target="Songpa Naru [Line 9 Phase 2-3]">
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
@@ -6462,15 +6478,15 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
-    <edge source="Olympic Park (Korea National Sport Univ.) [Line 9 Phase 2-3]" target="Samjeon [Line 9 Phase 2-3]">
+    <edge source="Samjeon [Line 9 Phase 2-3]" target="Sports Complex [Line 9 Phase 2-3]">
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
-    <edge source="Samjeon [Line 9 Phase 2-3]" target="Samseong Jungang [Line 9 Phase 2-3]">
+    <edge source="Samjeon [Line 9 Phase 2-3]" target="Seokchon Ancient Tombs [Line 9 Phase 2-3]">
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
-    <edge source="Samseong Jungang [Line 9 Phase 2-3]" target="Seokchon [Line 9 Phase 2-3]">
+    <edge source="Samseong Jungang [Line 9 Phase 2-3]" target="Seonjeongneung [Line 9 Phase 2-3]">
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
@@ -6478,26 +6494,18 @@
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
-    <edge source="Seokchon Ancient Tombs [Line 9 Phase 2-3]" target="Seonjeongneung [Line 9 Phase 2-3]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 9 Phase 2-3</data>
-    </edge>
-    <edge source="Seonjeongneung [Line 9 Phase 2-3]" target="Songpa Naru [Line 9 Phase 2-3]">
+    <edge source="Seokchon [Line 9 Phase 2-3]" target="Songpa Naru [Line 9 Phase 2-3]">
       <data key="d6">in_line</data>
       <data key="d7">Line 9 Phase 2-3</data>
     </edge>
     <edge source="Seonjeongneung [Line 9 Phase 2-3]" target="Seonjeongneung [Bundang Line]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Songpa Naru [Line 9 Phase 2-3]" target="Sports Complex [Line 9 Phase 2-3]">
-      <data key="d6">in_line</data>
-      <data key="d7">Line 9 Phase 2-3</data>
-    </edge>
     <edge source="Bubal [Gyeonggang Line]" target="Icheon [Gyeonggang Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeonggang Line</data>
     </edge>
-    <edge source="Bubal [Gyeonggang Line]" target="Yeoju [Gyeonggang Line]">
+    <edge source="Bubal [Gyeonggang Line]" target="King Sejong's Tomb [Gyeonggang Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeonggang Line</data>
     </edge>
@@ -6532,11 +6540,11 @@
     <edge source="Imae [Gyeonggang Line]" target="Imae [Bundang Line]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="King Sejong’s Tomb [Gyeonggang Line]" target="Yeoju [Gyeonggang Line]">
+    <edge source="King Sejong's Tomb [Gyeonggang Line]" target="Yeoju [Gyeonggang Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeonggang Line</data>
     </edge>
-    <edge source="King Sejong’s Tomb [Gyeonggang Line]" target="Seongnam [Gyeonggang Line]">
+    <edge source="Seongnam [Gyeonggang Line]" target="Yeoju [Gyeonggang Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeonggang Line</data>
     </edge>
@@ -6552,7 +6560,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
-    <edge source="Byeongjeom [Gyeongbu Line]" target="Sema [Gyeongbu Line]">
+    <edge source="Byeongjeom [Gyeongbu Line]" target="Seodongtan [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
@@ -6564,7 +6572,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
-    <edge source="Daebang [Gyeongbu Line]" target="Gwangmyeong [Gyeongbu Line]">
+    <edge source="Daebang [Gyeongbu Line]" target="Namyeong [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
@@ -6595,7 +6603,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
-    <edge source="Geumcheon-gu Office [Gyeongbu Line]" target="Seoksu [Gyeongbu Line]">
+    <edge source="Geumcheon-gu Office [Gyeongbu Line]" target="Gwangmyeong [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
@@ -6611,7 +6619,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
-    <edge source="Gwangmyeong [Gyeongbu Line]" target="Namyeong [Gyeongbu Line]">
+    <edge source="Gwangmyeong [Gyeongbu Line]" target="Seoksu [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
@@ -6635,11 +6643,15 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
-    <edge source="Namyeong [Gyeongbu Line]" target="Noryangjin [Gyeongbu Line]">
+    <edge source="Namyeong [Gyeongbu Line]" target="Seoul Station [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
-    <edge source="Noryangjin [Gyeongbu Line]" target="Seodongtan [Gyeongbu Line]">
+    <edge source="Noryangjin [Gyeongbu Line]" target="Seoul Station [Gyeongbu Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Gyeongbu Line</data>
+    </edge>
+    <edge source="Noryangjin [Gyeongbu Line]" target="Sindorim [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
@@ -6663,15 +6675,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
-    <edge source="Seodongtan [Gyeongbu Line]" target="Seoul Station [Gyeongbu Line]">
+    <edge source="Sema [Gyeongbu Line]" target="Seodongtan [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
     <edge source="Seojeong-ri [Gyeongbu Line]" target="Songtan [Gyeongbu Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongbu Line</data>
-    </edge>
-    <edge source="Seoul Station [Gyeongbu Line]" target="Sindorim [Gyeongbu Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongbu Line</data>
     </edge>
@@ -6728,7 +6736,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongwon Line</data>
     </edge>
-    <edge source="Cheongnyangni (University of Seoul) [Gyeongwon Line]" target="Dobong [Gyeongwon Line]">
+    <edge source="Cheongnyangni (University of Seoul) [Gyeongwon Line]" target="Dobongsan [Gyeongwon Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongwon Line</data>
     </edge>
@@ -6752,11 +6760,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongwon Line</data>
     </edge>
-    <edge source="Dobongsan [Gyeongwon Line]" target="Yeoncheon [Gyeongwon Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongwon Line</data>
-    </edge>
-    <edge source="Dobongsan [Gyeongwon Line]" target="Eungbong [Gyeongwon Line]">
+    <edge source="Dobong [Gyeongwon Line]" target="Dobongsan [Gyeongwon Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongwon Line</data>
     </edge>
@@ -6765,6 +6769,10 @@
       <data key="d7">Gyeongwon Line</data>
     </edge>
     <edge source="Dongducheon Jungang [Gyeongwon Line]" target="Jihaeng [Gyeongwon Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Gyeongwon Line</data>
+    </edge>
+    <edge source="Eungbong [Gyeongwon Line]" target="Yeoncheon [Gyeongwon Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongwon Line</data>
     </edge>
@@ -6863,7 +6871,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
-    <edge source="Geomam [Gyeongui Line]" target="Gongdeok [Gyeongui Line]">
+    <edge source="Geomam [Gyeongui Line]" target="Seoul Station [Gyeongui Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
@@ -6904,6 +6912,10 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
+    <edge source="Gongdeok [Gyeongui Line]" target="Seoul Station [Gyeongui Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Gyeongui Line</data>
+    </edge>
     <edge source="Gongdeok [Gyeongui Line]" target="Gongdeok [Airport Railroad (AREX)]">
       <data key="d6">transfer</data>
     </edge>
@@ -6918,16 +6930,12 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
-    <edge source="Hongik University [Gyeongui Line]" target="Sogang Univ. [Gyeongui Line]">
+    <edge source="Hongik University [Gyeongui Line]" target="Sinchon [Gyeongui Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
     <edge source="Hongik University [Gyeongui Line]" target="Hongik University [Airport Railroad (AREX)]">
       <data key="d6">transfer</data>
-    </edge>
-    <edge source="Hyochang Park [Gyeongui Line]" target="Seoul Station [Gyeongui Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongui Line</data>
     </edge>
     <edge source="Ilsan [Gyeongui Line]" target="Tanhyeon [Gyeongui Line]">
       <data key="d6">in_line</data>
@@ -6949,10 +6957,6 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
-    <edge source="Neunggok [Gyeongui Line]" target="Neunggok [Gyeongui Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongui Line</data>
-    </edge>
     <edge source="Paju [Gyeongui Line]" target="Uncheon [Gyeongui Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
@@ -6961,12 +6965,12 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
-    <edge source="Seoul Station [Gyeongui Line]" target="Sinchon [Gyeongui Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongui Line</data>
-    </edge>
     <edge source="Seoul Station [Gyeongui Line]" target="Seoul Station [Airport Railroad (AREX)]">
       <data key="d6">transfer</data>
+    </edge>
+    <edge source="Sinchon [Gyeongui Line]" target="Sogang Univ. [Gyeongui Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Gyeongui Line</data>
     </edge>
     <edge source="Tanhyeon [Gyeongui Line]" target="Yadang [Gyeongui Line]">
       <data key="d6">in_line</data>
@@ -6976,11 +6980,23 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongui Line</data>
     </edge>
-    <edge source="Baegun [Gyeongin Line]" target="Bucheon [Gyeongin Line]">
+    <edge source="Baegun [Gyeongin Line]" target="Bupyeong [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Bucheon [Gyeongin Line]" target="Bugae [Gyeongin Line]">
+    <edge source="Baegun [Gyeongin Line]" target="Dongam [Gyeongin Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Gyeongin Line</data>
+    </edge>
+    <edge source="Bucheon [Gyeongin Line]" target="Sosa [Gyeongin Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Gyeongin Line</data>
+    </edge>
+    <edge source="Bucheon [Gyeongin Line]" target="Jung-dong [Gyeongin Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Gyeongin Line</data>
+    </edge>
+    <edge source="Bugae [Gyeongin Line]" target="Songnae [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
@@ -6988,15 +7004,15 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Bupyeong [Gyeongin Line]" target="Dohwa [Gyeongin Line]">
+    <edge source="Dohwa [Gyeongin Line]" target="Juan [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Dohwa [Gyeongin Line]" target="Dongam [Gyeongin Line]">
+    <edge source="Dohwa [Gyeongin Line]" target="Jemulpo [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Dongam [Gyeongin Line]" target="Dongincheon [Gyeongin Line]">
+    <edge source="Dongam [Gyeongin Line]" target="Ganseok [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
@@ -7004,38 +7020,30 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Dowon [Gyeongin Line]" target="Gaebong [Gyeongin Line]">
+    <edge source="Dongincheon [Gyeongin Line]" target="Incheon [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Gaebong [Gyeongin Line]" target="Ganseok [Gyeongin Line]">
+    <edge source="Dowon [Gyeongin Line]" target="Jemulpo [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Ganseok [Gyeongin Line]" target="Guil [Gyeongin Line]">
+    <edge source="Gaebong [Gyeongin Line]" target="Guil [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Guil [Gyeongin Line]" target="Incheon [Gyeongin Line]">
+    <edge source="Gaebong [Gyeongin Line]" target="Oryudong [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Incheon [Gyeongin Line]" target="Jemulpo [Gyeongin Line]">
+    <edge source="Ganseok [Gyeongin Line]" target="Juan [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
     <edge source="Incheon [Gyeongin Line]" target="Incheon [Suin Line]">
       <data key="d6">transfer</data>
     </edge>
-    <edge source="Jemulpo [Gyeongin Line]" target="Juan [Gyeongin Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongin Line</data>
-    </edge>
-    <edge source="Juan [Gyeongin Line]" target="Jung-dong [Gyeongin Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongin Line</data>
-    </edge>
-    <edge source="Jung-dong [Gyeongin Line]" target="Onsu (Sungkonghoe Univ.) [Gyeongin Line]">
+    <edge source="Jung-dong [Gyeongin Line]" target="Songnae [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
@@ -7043,11 +7051,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
-    <edge source="Oryudong [Gyeongin Line]" target="Songnae [Gyeongin Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Gyeongin Line</data>
-    </edge>
-    <edge source="Songnae [Gyeongin Line]" target="Sosa [Gyeongin Line]">
+    <edge source="Onsu (Sungkonghoe Univ.) [Gyeongin Line]" target="Yeokgok [Gyeongin Line]">
       <data key="d6">in_line</data>
       <data key="d7">Gyeongin Line</data>
     </edge>
@@ -7450,11 +7454,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Sillim Line</data>
     </edge>
-    <edge source="Gwanaksan (Seoul Nat’l Univ.) [Sillim Line]" target="Seowon [Sillim Line]">
+    <edge source="Gwanaksan (Seoul Nat'l Univ.) [Sillim Line]" target="Seoul Nat'l Univ. Venture Town [Sillim Line]">
       <data key="d6">in_line</data>
       <data key="d7">Sillim Line</data>
     </edge>
-    <edge source="Gwanaksan (Seoul Nat’l Univ.) [Sillim Line]" target="Seoul Nat’l Univ. Venture Town [Sillim Line]">
+    <edge source="Seoul Nat'l Univ. Venture Town [Sillim Line]" target="Seowon [Sillim Line]">
       <data key="d6">in_line</data>
       <data key="d7">Sillim Line</data>
     </edge>
@@ -7518,7 +7522,7 @@
       <data key="d6">in_line</data>
       <data key="d7">Ui-Sinseol Line</data>
     </edge>
-    <edge source="Bomun [Ui-Sinseol Line]" target="Jeongneung [Ui-Sinseol Line]">
+    <edge source="Bomun [Ui-Sinseol Line]" target="Sungshin Women's Univ. (Donam) [Ui-Sinseol Line]">
       <data key="d6">in_line</data>
       <data key="d7">Ui-Sinseol Line</data>
     </edge>
@@ -7546,15 +7550,15 @@
       <data key="d6">in_line</data>
       <data key="d7">Ui-Sinseol Line</data>
     </edge>
+    <edge source="Jeongneung [Ui-Sinseol Line]" target="Sungshin Women's Univ. (Donam) [Ui-Sinseol Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Ui-Sinseol Line</data>
+    </edge>
     <edge source="Samyang [Ui-Sinseol Line]" target="Samyang Sageori [Ui-Sinseol Line]">
       <data key="d6">in_line</data>
       <data key="d7">Ui-Sinseol Line</data>
     </edge>
     <edge source="Samyang Sageori [Ui-Sinseol Line]" target="Solsaem [Ui-Sinseol Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Ui-Sinseol Line</data>
-    </edge>
-    <edge source="Sinseol-dong [Ui-Sinseol Line]" target="Sungshin Women’s Univ. (Donam) [Ui-Sinseol Line]">
       <data key="d6">in_line</data>
       <data key="d7">Ui-Sinseol Line</data>
     </edge>
@@ -7666,15 +7670,11 @@
       <data key="d6">in_line</data>
       <data key="d7">Jungang Line</data>
     </edge>
-    <edge source="Jipyeong [Jungang Line]" target="Yangpyeong [Jungang Line]">
-      <data key="d6">in_line</data>
-      <data key="d7">Jungang Line</data>
-    </edge>
     <edge source="Jungnang [Jungang Line]" target="Sangbong [Jungang Line]">
       <data key="d6">in_line</data>
       <data key="d7">Jungang Line</data>
     </edge>
-    <edge source="Mangu [Jungang Line]" target="Yangwon [Jungang Line]">
+    <edge source="Mangu [Jungang Line]" target="Yangpyeong [Jungang Line]">
       <data key="d6">in_line</data>
       <data key="d7">Jungang Line</data>
     </edge>
@@ -7699,6 +7699,10 @@
       <data key="d7">Jungang Line</data>
     </edge>
     <edge source="Wondeok [Jungang Line]" target="Yongmun [Jungang Line]">
+      <data key="d6">in_line</data>
+      <data key="d7">Jungang Line</data>
+    </edge>
+    <edge source="Yangpyeong [Jungang Line]" target="Yangwon [Jungang Line]">
       <data key="d6">in_line</data>
       <data key="d7">Jungang Line</data>
     </edge>

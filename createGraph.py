@@ -35,6 +35,9 @@ def build_graph(xlsx_path: str) -> nx.Graph:
                   "Boarding", "Leaving", "RecordedDate"]
     df = df.dropna(subset=["RouteNameEn", "StationNameEn"])
 
+    df["StationNameEn"] = df["StationNameEn"].str.replace("\u2019", "'", regex=False)
+    df["RouteNameEn"] = df["RouteNameEn"].str.replace("\u2019", "'", regex=False)
+
     # Sum boarding/leaving across all days in the file
     agg = (df.groupby(["RouteName", "RouteNameEn", "StationNameEn"],
                       as_index=False)[["Boarding", "Leaving"]].sum())

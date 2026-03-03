@@ -73,6 +73,7 @@ STATION_ORDER = {
         "Gasan Digital Complex",
         "Doksan",
         "Geumcheon-gu Office",
+        "Gwangmyeong",
         "Seoksu",
         "Gwanak",
         "Anyang",
@@ -86,6 +87,7 @@ STATION_ORDER = {
         "Suwon",
         "Seryu",
         "Byeongjeom",
+        "Seodongtan",
         "Sema",
         "Osan Univ.",
         "Osan",
@@ -105,6 +107,14 @@ STATION_ORDER = {
         "Baebang",
         "Onyang Oncheon",
         "Sinchang (Soonchunhyang Univ.)",
+        "Daebang",
+        "Namyeong",
+        "Seoul Station",
+        "Noryangjin",
+        "Sindorim",
+        "Singil",
+        "Yeongdeungpo",
+        "Yongsan",
     ],
 
     # 경원선 (Gyeongwon Line) — Hoegi → Yeoncheon
@@ -119,6 +129,7 @@ STATION_ORDER = {
         "Jegi-dong",
         "Sinseol-dong",
         "Dongmyo",
+        "Dobongsan",
         "Dobong",
         "Banghak",
         "Chang-dong",
@@ -140,13 +151,38 @@ STATION_ORDER = {
         "Cheongsan",
         "Jeongok",
         "Yeoncheon",
+        "Eungbong",
+        "Hannam",
+        "Ichon (National Museum of Korea)",
+        "Oksu",
+        "Seobinggo",
+        "Wangsimni (Seongdong-gu Office)",
     ],
 
     # 경인선 (Gyeongin Line) — mislabeled "Line 1" in CSV; Guro → Incheon
-    # NOTE: In the CSV, RouteName=경인선, RouteNameEn='Line 1'
-    # Distinguish using the Korean column. Covered by main Line 1 key above,
-    # but listed separately here for reference.
-    # (No separate key needed if you use Korean RouteName as graph key.)
+    "Gyeongin Line": [
+        "Guro",
+        "Guil",
+        "Gaebong",
+        "Oryudong",
+        "Onsu (Sungkonghoe Univ.)",
+        "Yeokgok",
+        "Sosa",
+        "Bucheon",
+        "Jung-dong",
+        "Songnae",
+        "Bugae",
+        "Bupyeong",
+        "Baegun",
+        "Dongam",
+        "Ganseok",
+        "Juan",
+        "Dohwa",
+        "Jemulpo",
+        "Dowon",
+        "Dongincheon",
+        "Incheon",
+    ],
 
     # ── 2호선 (Line 2) ─────────────────────────────────────────────────────
     "Line 2": [
@@ -197,6 +233,8 @@ STATION_ORDER = {
         # Seongsu branch: Seongsu → Sinseol-dong
         "Yongdap",
         "Sindap",
+        "Sinseol-dong",
+        "Yongdu (Dongdaemun-gu Office)",
         # Sinjeong branch: Sindorim → Kkachisan
         "Dorimcheon",
         "Yangcheon-gu Office",
@@ -256,6 +294,7 @@ STATION_ORDER = {
     # ── 4호선 (Line 4) ─────────────────────────────────────────────────────
     "Line 4": [
         "Danggogae",
+        "Bulamsan",
         "Sanggye",
         "Nowon",
         "Chang-dong",
@@ -357,12 +396,14 @@ STATION_ORDER = {
         "Hanam City Hall (Deokpung–Sinjang)",
         "Hanam Geomdansan",
         # Macheon branch (splits at Gangdong)
-        "둔촌동",  # Dunchon-dong
-        "Olympia Park (Korea National Sport Univ.)",
-        "Bangi",
+        "Dunchon-dong",
+        "Olympic Park (Korea National Sport Univ.)",
         "Gaerong",
+        "Ogeum",
+        "Bangi",
         "Geoyeo",
         "Macheon",
+        "Achasan (Children's Grand Park Rear Gate)",
     ],
 
     # ── 6호선 (Line 6) ─────────────────────────────────────────────────────
@@ -406,6 +447,7 @@ STATION_ORDER = {
         "Hwarangdae (Seoul Women's Univ.)",
         "Bonghwasan (Seoul Medical Center)",
         "Sinnae",
+        "Wolgok (Dongduk Women's Univ.)",
     ],
 
     # ── 7호선 (Line 7) ─────────────────────────────────────────────────────
@@ -522,6 +564,25 @@ STATION_ORDER = {
         "Central Veterans Hospital",
     ],
 
+    "Line 9 Phase 2-3": [
+        "Express Bus Terminal",
+        "Sapyeong",
+        "Sinnonhyeon",
+        "Eonju",
+        "Seonjeongneung",
+        "Samseong Jungang",
+        "Bongeunsa",
+        "Sports Complex",
+        "Samjeon",
+        "Seokchon Ancient Tombs",
+        "Seokchon",
+        "Songpa Naru",
+        "Hanseong Baekje",
+        "Olympic Park (Korea National Sport Univ.)",
+        "Dunchon Oryun",
+        "Central Veterans Hospital",
+    ],
+
     # Line 9 Phase 2-3 is a continuation; merged into Line 9 above.
     "Line 9, Phases 2–3": [
         "Express Bus Terminal",
@@ -561,7 +622,6 @@ STATION_ORDER = {
         "Goksan",
         "Daegok",
         "Neunggok",
-        "Neunggok",
         "Haengsin",
         "Gangmae",
         "Korea Aerospace Univ.",
@@ -569,15 +629,21 @@ STATION_ORDER = {
         "Gajwa",
         "Digital Media City",
         "Hongik University",
+        "Sinchon",
         "Sogang Univ.",
         "Gongdeok",
         "Yongsan",
+        "Seoul Station",
         "Seobinggo",
         "Hannam",
         "Oksu",
         "Eungbong",
         "Wangsimni (Seongdong-gu Office)",
         "Hoegi",
+        "Geomam",
+        "Gimpo International Airport",
+        "Gyeyang",
+        "Hyochang Park",
     ],
 
     # ── 경춘선 (Gyeongchun Line) ─────────────────────────────────────────────
@@ -711,6 +777,7 @@ STATION_ORDER = {
         "Bubal",
         "King Sejong's Tomb",
         "Yeoju",
+        "Seongnam",
     ],
 
     # ── 서해선 (Seohae Line) ──────────────────────────────────────────────
@@ -797,7 +864,7 @@ STATION_ORDER = {
         "Solsaem",
         "Bukhansan Bogungmun",
         "Jeongneung",
-        "Sungshin Women's Univ.",
+        "Sungshin Women's Univ. (Donam)",
         "Bomun",
         "Sinseol-dong",
     ],
@@ -844,6 +911,7 @@ STATION_ORDER = {
         "Donong",
         "Guri",
         "Yangwon",
+        "Yangpyeong",
         "Mangu",
         "Sangbong",
         "Jungnang",
