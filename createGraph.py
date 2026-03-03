@@ -1,25 +1,3 @@
-# Seoul Subway Station Orders
-# Keyed by RouteNameEn exactly as it appears in CARD_SUBWAY_MONTH_202512.csv
-# Station names match StationNameEn from the CSV.
-# Sources: yometro.com, metrolinehub.com, Wikipedia (scraped March 2026)
-#
-# USAGE:
-#   from seoul_station_orders import STATION_ORDER
-#   # Returns dict: { 'Line 1': ['City Hall', 'Jonggak', ...], ... }
-#   # Use to sort stations within each line before building graph edges.
-#
-# NOTES ON LINE 1 BRANCHES:
-#   The CSV splits Line 1 into several route names. The full combined order
-#   (used as the single '1호선' / 'Line 1' key below) merges all branches.
-#   Separate branch keys are also provided for the CSV's sub-entries:
-#     - 'Line 1'          → core trunk: Soyosan ↔ Incheon
-#     - 'Gyeongbu Line'   → Guro ↔ Sinchang (Janghang) branch
-#     - 'Gyeongwon Line'  → Hoegi ↔ Yeoncheon branch (부분; in 경원선 CSV entry)
-#     - 'Line 1' (경인선)  → see note in module docstring
-#
-# WARNING: 경인선 is mislabeled as 'Line 1' in the CSV. Use 'RouteName' (Korean)
-#          to distinguish it from 1호선 (also 'Line 1').
-
 import pandas as pd
 import networkx as nx
 from itertools import combinations
