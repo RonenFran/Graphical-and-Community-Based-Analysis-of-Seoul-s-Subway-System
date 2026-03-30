@@ -76,7 +76,7 @@ def build_graph(xlsx_path: str) -> nx.Graph:
     for sname, nodes in station_nodes.items():
         if len(nodes) > 1:
             for u, v in combinations(nodes, 2):
-                G.add_edge(u, v, type="transfer")
+                G.add_edge(u, v, type="transfer", weight=G.nodes[u]["weight"] + G.nodes[v]["weight"])
 
     return G
 
