@@ -57,6 +57,7 @@ STATION_ORDER = {
             "Myeonghak",
             "Geumjeong",
             "Gunpo",
+            "Dangjeong",
             "Uiwang",
             "Sungkyunkwan Univ.",
             "Hwaseo",
@@ -159,7 +160,13 @@ STATION_ORDER = {
             "City Hall",
         ],
         # Seongsu branch
-        ["Seongsu", "Yongdap", "Sindap", "Sinseol-dong"],
+        [
+            "Seongsu",
+            "Yongdap",
+            "Sindap",
+            "Yongdu (Dongdaemun-gu Office)",
+            "Sinseol-dong",
+        ],
         # Sinjeong branch
         [
             "Mullae",
@@ -196,7 +203,7 @@ STATION_ORDER = {
             "Jongno 3(sam)-ga",
             "Euljiro 3(sam)-ga",
             "Chungmuro",
-            "Dongguk Univ.",
+            "Dongguk Univ",
             "Yaksu",
             "Geumho",
             "Oksu",
@@ -319,6 +326,7 @@ STATION_ORDER = {
             "Myeongil",
             "Godeok",
             "Sangil-dong",
+            "Gangil",
             "Misa",
             "Hanam Pungsan",
             "Hanam City Hall (Deokpung–Sinjang)",
