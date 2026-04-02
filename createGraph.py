@@ -1,51 +1,43 @@
 import pandas as pd
 import networkx as nx
 from itertools import combinations
-from seoul_station_orders import STATION_ORDER
 
 
-def get_sorted_stations(route_name_en, df_agg):
+def get_branches(route_name_en):
     """
-    Return stations for a given RouteNameEn in correct line order.
-    Falls back to original CSV order if line not in STATION_ORDER.
+    Return a list of branches (each branch is a list of station names in order)
+    for the given line, based on STATION_ORDER.
     """
-    group = df_agg[df_agg["RouteNameEn"] == route_name_en]["StationNameEn"].tolist()
-
     if route_name_en not in STATION_ORDER:
-        print(f"[WARN] No order defined for '{route_name_en}', using CSV order.")
-        return group
-
-    reference = STATION_ORDER[route_name_en]
-    ordered = [s for s in reference if s in group]
-    missing = [s for s in group if s not in reference]
-    if missing:
-        print(f"[WARN] {route_name_en}: stations not in reference order: {missing}")
-        ordered += missing
-
-    return ordered
+        return []  # no order defined
+    return STATION_ORDER[route_name_en]
 
 
 def build_graph(xlsx_path: str) -> nx.Graph:
-    # ── Load & aggregate ────────────────────────────────────────────────────
+    # Load and clean data (same as before)
     df = pd.read_excel(xlsx_path)
-    # Expected columns: Date, RouteName, RouteNameEn, StationName, StationNameEn,
-    #                   Boarding, Leaving, RecordedDate
-    df.columns = ["Date", "RouteName", "RouteNameEn",
-                  "StationName", "StationNameEn",
-                  "Boarding", "Leaving", "RecordedDate"]
+    df.columns = [
+        "Date",
+        "RouteName",
+        "RouteNameEn",
+        "StationName",
+        "StationNameEn",
+        "Boarding",
+        "Leaving",
+        "RecordedDate",
+    ]
     df = df.dropna(subset=["RouteNameEn", "StationNameEn"])
-
     df["StationNameEn"] = df["StationNameEn"].str.replace("\u2019", "'", regex=False)
     df["RouteNameEn"] = df["RouteNameEn"].str.replace("\u2019", "'", regex=False)
+    df["StationNameEn"] = df["StationNameEn"].str.strip()
+    agg = df.groupby(["RouteName", "RouteNameEn", "StationNameEn"], as_index=False)[
+        ["Boarding", "Leaving"]
+    ].sum()
 
-    # Sum boarding/leaving across all days in the file
-    agg = (df.groupby(["RouteName", "RouteNameEn", "StationNameEn"],
-                      as_index=False)[["Boarding", "Leaving"]].sum())
-
-    # ── Build graph ─────────────────────────────────────────────────────────
+    # Build graph
     G = nx.Graph()
 
-    # Nodes: one per (station, line) pair; boarding+leaving = node weight
+    # Add nodes with traffic data
     for _, row in agg.iterrows():
         node_id = f"{row['StationNameEn']} [{row['RouteNameEn']}]"
         G.add_node(
@@ -55,17 +47,47 @@ def build_graph(xlsx_path: str) -> nx.Graph:
             route_korean=row["RouteName"],
             boarding=int(row["Boarding"]),
             leaving=int(row["Leaving"]),
-            weight=int(row["Boarding"]) + int(row["Leaving"]),  # combined traffic
+            weight=int(row["Boarding"]) + int(row["Leaving"]),
         )
 
-    # In-line edges: consecutive stations along each line
+    # In-line edges: process each branch separately
     for line, group in agg.groupby("RouteNameEn"):
-        stations = get_sorted_stations(line, agg)
-        for i in range(len(stations) - 1):
-            u = f"{stations[i]} [{line}]"
-            v = f"{stations[i+1]} [{line}]"
-            if G.has_node(u) and G.has_node(v):
-                G.add_edge(u, v, type="in_line", line=line)
+        branches = get_branches(line)
+        if not branches:
+            # Fallback: use CSV order as a single branch
+            stations = group["StationNameEn"].tolist()
+            branches = [stations]
+
+        for branch in branches:
+            # Filter only stations that exist in the data for this line
+            present = [s for s in branch if s in group["StationNameEn"].values]
+            if len(present) < 2:
+                continue
+            # Add edges between consecutive stations
+            for i in range(len(present) - 1):
+                u = f"{present[i]} [{line}]"
+                v = f"{present[i+1]} [{line}]"
+                if G.has_node(u) and G.has_node(v):
+                    G.add_edge(
+                        u,
+                        v,
+                        type="in_line",
+                        line=line,
+                        weight=G.nodes[u]["weight"] + G.nodes[v]["weight"],
+                    )
+            # If it's a circular line (first and last station of the branch are the same),
+            # also connect the last to the first.
+            if len(present) > 1 and branch[0] == branch[-1]:
+                u = f"{present[-1]} [{line}]"
+                v = f"{present[0]} [{line}]"
+                if G.has_node(u) and G.has_node(v) and not G.has_edge(u, v):
+                    G.add_edge(
+                        u,
+                        v,
+                        type="in_line",
+                        line=line,
+                        weight=G.nodes[u]["weight"] + G.nodes[v]["weight"],
+                    )
 
     # Transfer edges: connect all nodes that share the same station name
     station_nodes = {}
@@ -76,7 +98,12 @@ def build_graph(xlsx_path: str) -> nx.Graph:
     for sname, nodes in station_nodes.items():
         if len(nodes) > 1:
             for u, v in combinations(nodes, 2):
-                G.add_edge(u, v, type="transfer", weight=G.nodes[u]["weight"] + G.nodes[v]["weight"])
+                G.add_edge(
+                    u,
+                    v,
+                    type="transfer",
+                    weight=G.nodes[u]["weight"] + G.nodes[v]["weight"],
+                )
 
     return G
 
@@ -95,6 +122,7 @@ def main():
 
     nx.write_graphml(G, "seoul_subway_graph.graphml")
 
+    return G
 
-if __name__ == "__main__":
-    main()
+
+Graph = main()
