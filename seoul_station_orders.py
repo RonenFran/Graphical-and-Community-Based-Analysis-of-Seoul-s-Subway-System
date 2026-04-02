@@ -696,7 +696,7 @@ STATION_ORDER = {
             "Jipyeong",
         ],
     ],
-    "Gyuonggang Line": [
+    "Gyeonggang Line": [
         [
             "Pangyo",
             "Seongnam",
