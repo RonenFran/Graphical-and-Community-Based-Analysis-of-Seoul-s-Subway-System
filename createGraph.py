@@ -67,7 +67,7 @@ def build_graph(xlsx_path: str) -> nx.Graph:
             for i in range(len(present) - 1):
                 u = f"{present[i]} [{line}]"
                 v = f"{present[i+1]} [{line}]"
-                if G.has_node(u) and G.has_node(v):
+                if G.has_node(u) and G.has_node(v) and u != v:
                     G.add_edge(
                         u,
                         v,
@@ -80,7 +80,7 @@ def build_graph(xlsx_path: str) -> nx.Graph:
             if len(present) > 1 and branch[0] == branch[-1]:
                 u = f"{present[-1]} [{line}]"
                 v = f"{present[0]} [{line}]"
-                if G.has_node(u) and G.has_node(v) and not G.has_edge(u, v):
+                if G.has_node(u) and G.has_node(v) and u != v:
                     G.add_edge(
                         u,
                         v,
